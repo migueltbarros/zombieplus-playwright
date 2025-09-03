@@ -1,0 +1,82 @@
+{
+  "create": {
+    "title": "Zumbilândia",
+    "overview": "Um grupo improvável se une para sobreviver a um mundo tomado por zumbis, com muito humor e ação.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "/images/zumbilandia.png"
+  },
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Sobreviventes se refugiam em um shopping center enquanto hordas de zumbis tomam conta do mundo.",
+    "company": "United Film Distribution Company",
+    "release_year": 1978,
+    "featured": false,
+    "cover": "/images/madrugada_dos_mortos.png"
+  },
+  "dia_dos_mortos": {
+    "title": "Dia dos Mortos",
+    "overview": "Militares e cientistas se escondem em um bunker subterrâneo em meio a um planeta dominado por zumbis.",
+    "company": "United Film Distribution Company",
+    "release_year": 1985,
+    "featured": false,
+    "cover": "/images/dia_dos_mortos.png"
+  },
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Após um vírus devastador se espalhar, um homem acorda em Londres e encontra a cidade deserta e infestada.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/images/exterminio.png"
+  },
+  "exterminio_2": {
+    "title": "Extermínio 2",
+    "overview": "Seis meses após o surto inicial, a população tenta se reerguer em Londres, mas o vírus retorna.",
+    "company": "20th Century Fox",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/images/exterminio_2.png"
+  },
+  "resident_evil_o_hospedeiro": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Uma equipe militar luta contra uma inteligência artificial e zumbis criados pela Corporação Umbrella.",
+    "company": "Sony Pictures Releasing",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/images/resident_evil_o_hospedeiro.png"
+  },
+  "guerra_mundial_z": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU percorre o mundo em busca de uma maneira de deter uma pandemia zumbi global.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "/images/guerra_mundial_z.png"
+  },
+  "invasao_zumbi": {
+    "title": "Invasão Zumbi",
+    "overview": "Passageiros de um trem de alta velocidade na Coreia do Sul lutam para sobreviver a um surto zumbi.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": false,
+    "cover": "/images/invasao_zumbi.png"
+  },
+  "todo_mundo_quase_morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Dois amigos atrapalhados tentam sobreviver ao apocalipse zumbi em Londres de forma cômica.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/images/todo_mundo_quase_morto.png"
+  },
+  "a_noite_dos_mortos_vivos": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo de pessoas tenta sobreviver em uma casa isolada durante um apocalipse zumbi.",
+    "company": "Continental Distributing",
+    "release_year": 1968,
+    "featured": false,
+    "cover": "/images/a_noite_dos_mortos_vivos.png"
+  }
+}
