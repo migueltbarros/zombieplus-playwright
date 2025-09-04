@@ -3,7 +3,7 @@ import { test } from '../support';
 test('Deve logar como admin', async ({ page }) => {
     await page.login.visit();
     await page.login.submit('admin@zombieplus.com', 'pwd123');
-    await page.movies.isLoggedIn();
+    await page.login.isLoggedIn('Admin');
 })
 
 test('Não deve logar com email incorreto', async ({ page }) => {
